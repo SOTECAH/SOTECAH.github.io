@@ -11,12 +11,14 @@
             <div class="row">
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item" >
+                       <!-- <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">-->
                             <div class="caption">
                                 <div class="caption-content">
-                                    <i>Desarrollo</i>
+                                    <i class="fa fa-search-plus fa-3x">{{ post.description}}</i>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" style="align-items: center;" class="img-responsive" alt="{{ post.alt }}">
+                      <!--  </a>-->
                     </div>
                 {% endfor %}
             </div>
