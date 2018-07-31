@@ -35,7 +35,7 @@ footer:
   copyright: SOTECAH
   location: Ubicación
   social: Encuentranos
-  contacto: Contacto
+  credits: Contacto
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,9 +53,10 @@ address:
   - line: Tegucigalpa, Honduras
 
 # Credits content
-contacto:
+credits:
   - line: '+50498837285'
   - line: 'admin@sotecah.com'
+
 
 # Build settings
 markdown: kramdown
