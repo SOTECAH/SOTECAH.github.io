@@ -4,7 +4,7 @@ email: admin@sotecah.com
 url: http://www.sotecah.com/
 description: "Soluciones Tecnológicas Ágiles de Honduras"
 keywords: "Software, Apps, Tecnología, Agile"
-skills: "Desarrollo Web - Aplicaciones Moviles - Soluciones de Tecnología"
+skills: "Soluciones Tecnologicas Agiles de Honduras"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: SOTECAH
   location: Ubicación
   social: Encuentranos
-  credits: Creditos
+  contacto: Contacto
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,7 +53,9 @@ address:
   - line: Tegucigalpa, Honduras
 
 # Credits content
-credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>.'
+contacto:
+  - line: '+50498837285'
+  - line: 'admin@sotecah.com'
 
 # Build settings
 markdown: kramdown
