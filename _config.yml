@@ -54,8 +54,8 @@ address:
 
 # Credits content
 credits:
-  - line: '+50498837285'
-  - line: 'admin@sotecah.com'
+  +50498837285
+  admin@sotecah.com
 
 
 # Build settings
