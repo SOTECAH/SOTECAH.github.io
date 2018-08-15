@@ -12,14 +12,15 @@
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item" >
                        <!-- href="#portfolioModal-{{ post.modal-id }}"-->
-                       <a class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i>{{ post.description}}</i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/{{ post.img }}" class="mx-auto"  alt="{{ post.alt }}">
-                    </a>
+                       <!--<a class="portfolio-link" data-toggle="modal">-->
+                            <!--<div class="caption">-->
+                       <!--         <div class="caption-content">
+
+                                </div>-->
+                           <!-- </div>-->
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                             <p>{{ post.description}}</p>
+                   <!-- </a>-->
                     </div>
                 {% endfor %}
             </div>
