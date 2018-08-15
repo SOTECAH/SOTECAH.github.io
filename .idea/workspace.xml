@@ -172,22 +172,6 @@
               <item name="SOTECAH.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SOTECAH.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SOTECAH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOTECAH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOTECAH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOTECAH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOTECAH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOTECAH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,12 +212,12 @@
       <workItem from="1533013092266" duration="4570000" />
       <workItem from="1533176152951" duration="2212000" />
       <workItem from="1533333977671" duration="59000" />
-      <workItem from="1534307774775" duration="3716000" />
+      <workItem from="1534307774775" duration="3819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14030000" />
+    <option name="totallyTimeSpent" value="14133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
