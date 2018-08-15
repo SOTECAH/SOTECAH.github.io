@@ -6,7 +6,7 @@ img: iphone.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Desarrollo IOS
+category: Desarrollo IOS
+description: Amplios conocimiento en creacion de apps para dispositivos IOS.
 
 ---

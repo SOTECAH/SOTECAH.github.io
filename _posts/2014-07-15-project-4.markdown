@@ -6,7 +6,7 @@ img: devices.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Web Responsive Apps
+category: Web Responsive Apps
+description: Creacion de aplicaciones web responsive para su uso en cualquier tipo de dispositivo.
 
 ---

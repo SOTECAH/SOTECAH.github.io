@@ -6,7 +6,7 @@ img: settings.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Servicios en la nube
+category: Servicios en la nube
+description: Brindamos servicios de hosting y mantenimiento en la nube.
 
 ---

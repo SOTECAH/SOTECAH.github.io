@@ -6,7 +6,7 @@ img: pc.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Desarrollo Desktop
+category: Desarrollo Desktop
+description: Nuestro equipo cuenta con gran experiencia en desarrollo de aplicaciones de escritorio.
 
 ---
