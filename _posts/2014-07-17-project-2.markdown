@@ -6,7 +6,7 @@ img: android.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Desarrollo Android
+category: Desarrollo Android
+description: Expertos en desarrollo de aplicaciones para dispositivos android.
 
 ---
