@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5221db20-7351-48b9-a02d-b6c7a90a9131" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sotecah_circle.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contact_static.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/contact_static.html">
+      <file leaf-file-name="portfolio_grid.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+            <state relative-caret-position="204">
+              <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -71,11 +74,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="779">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -99,9 +102,9 @@
         <option value="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
-        <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
       </list>
     </option>
   </component>
@@ -183,12 +186,12 @@
       <workItem from="1533013092266" duration="4570000" />
       <workItem from="1533176152951" duration="2212000" />
       <workItem from="1533333977671" duration="59000" />
-      <workItem from="1534307774775" duration="1522000" />
+      <workItem from="1534307774775" duration="2090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11836000" />
+    <option name="totallyTimeSpent" value="12404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -424,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact_disqus.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -474,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -507,10 +496,24 @@
     <entry file="file://$PROJECT_DIR$/freelancer-theme-jekyll.gemspec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="779">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
         </state>
       </provider>
     </entry>
